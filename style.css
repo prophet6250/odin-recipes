@@ -1,0 +1,31 @@
+body {
+	background-color: #ffccb3;
+}
+
+h1 {
+	font-family: 'Fira Sans', 'DejaVu Sans', sans-serif;
+}
+
+h2 {
+	font-family: 'JetBrains Mono', monospace;
+}
+
+blockquote {
+	font-family: 'Cascadia Code', sans-serif;
+	background-color: ghostwhite;
+}
+
+.list-item {
+	font-family: 'Cascadia Code', monospace;
+	background-color: navajowhite;
+}
+
+.info.list-item {
+	font-family: 'Times New Roman', serif;
+	background-color: blanchedalmond;
+}
+
+.ingredients.list-item {
+	font-family: 'roboto', sans-serif;
+	background-color: lightpink;
+}
